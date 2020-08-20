@@ -1,0 +1,38 @@
+I"V<!-- Google Maps section -->
+<div class="section">
+    <div class="container">
+        <div class="text-center">
+            <h3>Contacto</h3>
+        </div>
+        <!-- <div id="map-canvas" class="gmap-md" data-latitude="51.513569" data-longitude="-0.123443"></div> -->
+    </div><!-- end container -->
+</div>
+<!-- end Google Maps section -->
+
+<!-- Contact Info section -->
+<div class="section no-padding-top">
+    <div class="container">
+        <div class="row text-center">
+            <!-- Icon text box 1 -->
+            <div class="col-12 col-sm-6 col-md-4 icon-3xl">
+                <i class="ti ti-email text-dark margin-bottom-20"></i>
+                <h6 class="heading-uppercase no-margin">Email</h6>
+                <p>centrolyra@gmail.com</p>
+            </div>
+            <!-- Icon text box 2 -->
+            <div class="col-12 col-sm-6 col-md-4 icon-3xl">
+                <i class="ti ti-mobile text-dark margin-bottom-20"></i>
+                <h6 class="heading-uppercase no-margin">Teléfono</h6>
+                <p>+58-212-2620478 / +58-212-7156325</p>
+            </div>
+            <!-- Icon text box 3 -->
+            <div class="col-12 col-sm-6 col-md-4 icon-3xl">
+                <i class="ti ti-location-pin text-dark margin-bottom-20"></i>
+                <h6 class="heading-uppercase no-margin">Dirección</h6>
+                <p>Calle Los Granados, cruce con Avenida Santa Teresa de Jesús. Quinta Número 3. Urbanización La Castellana, Caracas. Zona Postal 1060</p>
+            </div>
+        </div><!-- end row -->
+    </div><!-- end container -->
+</div>
+<!-- end Contact Info section -->
+:ET

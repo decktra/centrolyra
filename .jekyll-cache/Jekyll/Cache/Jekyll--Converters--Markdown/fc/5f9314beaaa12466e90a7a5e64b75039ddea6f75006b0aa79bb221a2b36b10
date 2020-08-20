@@ -1,0 +1,56 @@
+I"�<div class="section-lg bg-image parallax" style="background-image: url(assets/images/knowledge2.jpg)" id="research">
+    <div class="bg-black-07">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-12 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+                    <h3>Innovación social</h3>
+                    <p>
+                        Acompañamos el esfuerzo compartido de creación, implementación y difusión de prácticas sociales y empresariales innovadoras, generando nuevas soluciones para abordar retos económicos, sociales y ambientales. Junto con agentes de cambio -líderes, emprendedores, organizaciones sociales y ambientales, corporaciones y empresas-, creamos soluciones efectivas, eficientes y sostenibles para resolver problemas que agregan valor a la sociedad.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="section-lg">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col-12 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+                <h3>Investigación</h3>
+                <p>
+                    Contribuimos a la comprensión y análisis de fenómenos humanos -psicológicos, económicos y sociales- complejos. Estudiamos realidades específicas que combinan diferentes enfoques y metodologías de investigación para crear nuevos marcos de referencia que permitan innovar y actuar en consecuencia, generando altos impactos.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="section-lg bg-image parallax" style="background-image: url(assets/images/knowledge2.jpg)" id="research">
+    <div class="bg-black-07">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-12 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+                    <h3>Consultoría</h3>
+                    <p>
+                        Apoyamos a organizaciones y empresas en sus esfuerzos por producir altos impactos y tener éxito en sus innovaciones sociales. El análisis riguroso de datos sobre asuntos clave, el conocimiento valioso, el apoyo en el diseño, la implementación y la evaluación de estrategias son los pilares principales para ayudar a las organizaciones a cumplir su misión.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="section-lg">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col-12 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+                <h3>Comunicaciones</h3>
+                <p>
+                    Diseñamos estrategias de comunicación y compromiso teniendo en cuenta las necesidades de la organización, las características de la audiencia y las realidades circundantes.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+:ET

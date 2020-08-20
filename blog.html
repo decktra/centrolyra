@@ -1,0 +1,41 @@
+---
+layout: default
+title: Blog
+---
+
+<!-- Blog Posts -->
+<div class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-sm-10 offset-sm-1 col-md-8 offset-md-2">
+        {% for post in site.posts %}
+          <div class="blog-post-box">
+            <div class="blog-post-img">
+              <a href="{{ post.url }}"><img src="/assets/images/{{ post.image }}" alt=""></a>
+            </div>
+            <div class="blog-post-content">
+              <div class="blog-post-title">
+                <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
+                <span>{{ post.date | date_to_string }}</span>
+              </div>
+              <p>{{ post.excerpt }}</p>
+              <a class="text-btn margin-top-30" href="{{ post.url }}">Read More</a>
+            </div>
+          </div>
+        {% endfor %}
+        <!-- Pagination
+        <nav>
+          <ul class="pagination justify-content-center margin-top-70">
+            <li class="page-item"><a class="page-link" href="Blog-Minimal.html#">&laquo;</a></li>
+            <li class="page-item active"><a class="page-link" href="Blog-Minimal.html#">1</a></li>
+            <li class="page-item"><a class="page-link" href="Blog-Minimal.html#">2</a></li>
+            <li class="page-item"><a class="page-link" href="Blog-Minimal.html#">3</a></li>
+            <li class="page-item"><a class="page-link" href="Blog-Minimal.html#">&raquo;</a></li>
+          </ul>
+        </nav>
+        -->
+      </div>
+    </div><!-- end row -->
+  </div><!-- end container -->
+</div>
+<!-- end Blog Posts -->
