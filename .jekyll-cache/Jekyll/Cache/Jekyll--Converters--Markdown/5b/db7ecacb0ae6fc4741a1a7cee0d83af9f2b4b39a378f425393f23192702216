@@ -1,3 +1,29 @@
+I"�
+<!-- Home section -->
+<div class="owl-carousel owl-nav-overlay owl-dots-overlay" data-owl-nav="true" data-owl-dots="true" data-owl-items="1">
+    <!-- Slider box 1 -->
+    <div class="bg-image" style="background-image: url(assets/images/banner1.jpg)">
+        <div class="section-lg bg-black-04">
+            <div class="container">
+                <h6 class="heading-uppercase margin-bottom-20">Cambia tu vida para</h6>
+                <h1>Cambiar el mundo</h1>
+                <a class="button button-xl button-outline-white-2 margin-top-30" href="about-us.html">Descubre Más</a>
+            </div>
+        </div>
+    </div>
+    <!-- Slider box 2 -->
+    <div class="bg-image" style="background-image: url(assets/images/banner2.jpg)">
+        <div class="section-lg bg-black-04">
+            <div class="container">
+                <h6 class="heading-uppercase margin-bottom-20">Cambia tu vida para</h6>
+                <h1>Cambiar el mundo</h1>
+                <a class="button button-xl button-outline-white-2 margin-top-30" href="about-us.html">Descubre Más</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end owl-carousel -->
+<!-- end Home section -->
 <!-- Services section -->
 <div class="section border-bottom">
     <div class="container">
@@ -28,7 +54,7 @@
         <div class="row align-items-center col-spacing-50">
             <!-- About Image -->
             <div class="col-12 col-lg-6">
-                <img src="assets/images/discover.jpg" alt="">
+                <img src="assets/images/discover.jpg" alt="" />
             </div>
             <!-- About Content -->
             <div class="col-12 col-lg-6">
@@ -44,8 +70,9 @@
 <div class="bg-image parallax" style="background-image: url(assets/images/corporate-classic-parallax.jpg)">
     <div class="bg-black-06">
         <div class="section text-center">
-            <h2 class="font-weight-light">Ponte <br> En Contacto</h2>
+            <h2 class="font-weight-light">Ponte <br /> En Contacto</h2>
             <a class="button button-xl button-outline-white-2 button-rounded margin-top-30" href="contacto.html">Contáctanos</a>
         </div>
     </div>
 </div>
+:ET
