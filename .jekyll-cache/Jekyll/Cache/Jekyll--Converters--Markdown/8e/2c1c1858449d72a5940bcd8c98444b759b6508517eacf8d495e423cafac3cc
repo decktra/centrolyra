@@ -1,4 +1,4 @@
-I"V<!-- Google Maps section -->
+I"L<!-- Google Maps section -->
 <div class="section">
     <div class="container">
         <div class="text-center">
@@ -23,13 +23,13 @@
             <div class="col-12 col-sm-6 col-md-4 icon-3xl">
                 <i class="ti ti-mobile text-dark margin-bottom-20"></i>
                 <h6 class="heading-uppercase no-margin">Teléfono</h6>
-                <p>+58-212-2620478 / +58-212-7156325</p>
+                <p>+58 212 715.6325</p>
             </div>
             <!-- Icon text box 3 -->
             <div class="col-12 col-sm-6 col-md-4 icon-3xl">
                 <i class="ti ti-location-pin text-dark margin-bottom-20"></i>
                 <h6 class="heading-uppercase no-margin">Dirección</h6>
-                <p>Calle Los Granados, cruce con Avenida Santa Teresa de Jesús. Quinta Número 3. Urbanización La Castellana, Caracas. Zona Postal 1060</p>
+                Calle Guaicaipuro con final Calle Mohedano, edificio HEMER, piso 6 Local 6A. Urb. El Rosal, Caracas (Chacao) Edo Miranda, Zona postal 1060&lt;/p&gt;
             </div>
         </div><!-- end row -->
     </div><!-- end container -->
