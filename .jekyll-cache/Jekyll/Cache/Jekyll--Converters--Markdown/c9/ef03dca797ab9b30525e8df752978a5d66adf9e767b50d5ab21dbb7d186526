@@ -1,4 +1,4 @@
-I"Û9<div class="section border-top" id="core">
+I"¤8<div class="section border-top" id="core">
     <div class="container">
         <div class="section-title text-center">
             <h2 class="font-weight-light text-center">Nuestro Equipo</h2>
@@ -12,9 +12,9 @@
                         <!-- social links -->
                         <div>
                             <ul>
-                                <li><a href="About-us-2.html#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="About-us-2.html#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="About-us-2.html#"><i class="fab fa-pinterest"></i></a></li>
+                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -28,9 +28,9 @@
                         <!-- social links -->
                         <div>
                             <ul>
-                                <li><a href="About-us-2.html#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="About-us-2.html#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="About-us-2.html#"><i class="fab fa-pinterest"></i></a></li>
+                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -44,9 +44,9 @@
                         <!-- social links -->
                         <div>
                             <ul>
-                                <li><a href="About-us-2.html#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="About-us-2.html#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="About-us-2.html#"><i class="fab fa-pinterest"></i></a></li>
+                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -62,9 +62,9 @@
                         <!-- social links -->
                         <div>
                             <ul>
-                                <li><a href="About-us-2.html#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="About-us-2.html#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="About-us-2.html#"><i class="fab fa-pinterest"></i></a></li>
+                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -74,13 +74,13 @@
                 <!-- Team box 2 -->
                 <div class="col-12 col-md-4 col-lg-4 team-box">
                     <div class="team-img">
-                        <img src="assets/images/user.png" alt="" /><!-- image source -->
+                        <img src="assets/images/beatriz.jpg" alt="" /><!-- image source -->
                         <!-- social links -->
                         <div>
                             <ul>
-                                <li><a href="About-us-2.html#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="About-us-2.html#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="About-us-2.html#"><i class="fab fa-pinterest"></i></a></li>
+                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -90,13 +90,13 @@
                 <!-- Team box 3 -->
                 <div class="col-12 col-md-4 col-lg-4 team-box">
                     <div class="team-img">
-                        <img src="assets/images/user.png" alt="" /><!-- image source -->
+                        <img src="assets/images/zaira.jpg" alt="" /><!-- image source -->
                         <!-- social links -->
                         <div>
                             <ul>
-                                <li><a href="About-us-2.html#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="About-us-2.html#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="About-us-2.html#"><i class="fab fa-pinterest"></i></a></li>
+                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -112,9 +112,9 @@
                         <!-- social links -->
                         <div>
                             <ul>
-                                <li><a href="About-us-2.html#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="About-us-2.html#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="About-us-2.html#"><i class="fab fa-pinterest"></i></a></li>
+                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
                             </ul>
                         </div>
                     </div>
