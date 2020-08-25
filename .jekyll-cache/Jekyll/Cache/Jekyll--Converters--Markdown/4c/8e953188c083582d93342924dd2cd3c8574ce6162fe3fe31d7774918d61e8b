@@ -1,4 +1,4 @@
-<!-- About section -->
+I"�<!-- About section -->
 <div class="section">
     <div class="container">
         <div class="row align-items-center col-spacing-50">
@@ -14,16 +14,16 @@
                     <div class="col-12 gallery-box">
                         <div class="gallery-img">
                             <a href="assets/images/we.jpg" data-gallery-title="Mision">
-                                <img src="assets/images/we.jpeg" alt="">
+                                <img src="assets/images/we.jpeg" alt="" />
                             </a>
                         </div>
                     </div>
                 </div><!-- end row/gallery-wrapper -->
             </div>
         </div><!-- end row -->
-        <br>
-        <hr>
-        <br>
+        <br />
+        <hr />
+        <br />
         <div class="row align-items-center col-spacing-50">
             
             <div class="col-12 col-lg-5">
@@ -32,7 +32,7 @@
                     <div class="col-12 gallery-box">
                         <div class="gallery-img">
                             <a href="assets/images/mission.jpg" data-gallery-title="Mission">
-                                <img src="assets/images/mission.jpg" alt="">
+                                <img src="assets/images/mission.jpg" alt="" />
                             </a>
                         </div>
                     </div>
@@ -45,9 +45,9 @@
                 </p>
             </div>
         </div><!-- end row -->
-        <br>
-        <hr>
-        <br>
+        <br />
+        <hr />
+        <br />
         <div class="row align-items-center col-spacing-50">
             <div class="col-12 col-lg-7">
                 <h3 class="font-weight-light">Visión</h3>
@@ -61,7 +61,7 @@
                     <div class="col-12 gallery-box">
                         <div class="gallery-img">
                             <a href="assets/images/vision.jpg" data-gallery-title="Vision">
-                                <img src="assets/images/vision.jpg" alt="">
+                                <img src="assets/images/vision.jpg" alt="" />
                             </a>
                         </div>
                     </div>
@@ -70,3 +70,46 @@
         </div><!-- end row -->
     </div><!-- end container -->
 </div>
+
+<!-- Services section -->
+<div class="section bg-grey-lighter" id="values">
+    <div class="container">
+        <div class="section-title">
+            <h2 class="font-weight-light">Nuestros Valores</h2>
+            <div class="divider-width-50px">
+                <hr class="bg-black-07" />
+            </div>
+        </div>
+        <div class="row col-spacing-40">
+            <!-- Service box 1 -->
+            <div class="col-12 col-md-6 col-lg-6 icon-4xl">
+                <h5 class="font-weight-normal margin-top-20">Respeto</h5>
+                <p>
+                    Cada individuo es un ser único con ideas, credos, emociones y procesos singulares. Escuchar y acompañar a cada uno según sus individualidades es de suma importancia para nosotros.
+                </p>
+            </div>
+            <!-- Service box 2 -->
+            <div class="col-12 col-md-6 col-lg-6 icon-4xl">
+                <h5 class="font-weight-normal margin-top-20">Inclusión</h5>
+                <p>
+                    Damos la bienvenida a la diversidad en su sentido más amplio. Desde diferentes necesidades y habilidades hasta circunstancias y recursos, todos son aceptados.    
+                </p>
+            </div>
+            <!-- Service box 3 -->
+            <div class="col-12 col-md-6 col-lg-6 icon-4xl">
+                <h5 class="font-weight-normal margin-top-20">Confianza</h5>
+                <p>
+                    Creamos un entorno seguro para apoyar a los agentes de cambio en su propio viaje interior y su trabajo en red.
+                </p>
+            </div>
+            <!-- Service box 4 -->
+            <div class="col-12 col-md-6 col-lg-6 icon-4xl">
+                <h5 class="font-weight-normal margin-top-20">Comunidad</h5>
+                <p>
+                    La co-creación y ser parte de un grupo son elementos poderosos en el proceso de trabajo interno. Compartimos nuestra propia singularidad y nos apoyamos mutuamente a nivel global gracias al trabajo en redes.
+                </p>
+            </div>
+        </div><!-- end row -->
+    </div><!-- end container -->
+</div>
+:ET
